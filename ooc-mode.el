@@ -1,4 +1,4 @@
-;;; ooc-mode.el ---
+;;; ooc-mode.el --- Major mode for editing ooc-lang files
 ;;
 ;; Filename: ooc-mode.el
 ;; Description:
